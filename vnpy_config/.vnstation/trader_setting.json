@@ -1,0 +1,12 @@
+{
+    "gateways": [
+        {
+            "name": "CTP测试",
+            "module": "vnpy_ctptest",
+            "class": "CtptestGateway",
+            "description": "期货、期货期权"
+        }
+    ],
+    "apps": [],
+    "path": "C:\\Users\\yuanx"
+}
